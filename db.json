@@ -1,5 +1,5 @@
 
-{
+
 {
   "id":"1",
   "description": "OpenZeppelin ERC1155 implementation Token 0",
@@ -14,4 +14,4 @@
   "image": "https://cdn.pixabay.com/photo/2020/08/19/00/13/sea-5499649__340.jpg",
   "name": "Horse"
 }
-}
+
