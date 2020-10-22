@@ -1,12 +1,18 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
+   "id": 1,
+  "description": "OpenZeppelin ERC1155 implementation Token 0",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://cdn.pixabay.com/photo/2020/08/19/00/13/sea-5499649__340.jpg",
+  "name": "Sky"
+},
+{
+  "id": 2,
+  "description": "OpenZeppelin ERC1155 implementation Token 0",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://picjumbo.com/wp-content/uploads/sunset-ocean-free-photo-DSC04212-1080x720.jpg",
+  "name": "Wave"
     },
     {
       "id": 3,
