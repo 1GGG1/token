@@ -15,8 +15,18 @@
   "name": "Wave"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+  "id": 3,
+  "description": "OpenZeppelin ERC1155 implementation Token 0",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://picjumbo.com/wp-content/uploads/sunset-ocean-free-photo-DSC04212-1080x720.jpg",
+  "name": "Wave"
+    },
+    {
+  "id": 4,
+  "description": "OpenZeppelin ERC1155 implementation Token 0",
+  "external_url": "https://forum.openzeppelin.com",
+  "image": "https://picjumbo.com/wp-content/uploads/sunset-ocean-free-photo-DSC04212-1080x720.jpg",
+  "name": "Wave"
     }
   ],
   "comments": [
